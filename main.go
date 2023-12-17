@@ -4,5 +4,5 @@ import "github.com/matheus-alpe/go-signal/examples"
 
 
 func main() {
-    examples.Example02()
+    examples.Example03()
 }
